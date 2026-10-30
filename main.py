@@ -1,5 +1,5 @@
 print('Hello')
 def greet(name):
-return f""[Dhi, {name}"
+return f"hi, {name}"
 if __name__ == "__main__":
 print(greet("nikita"))
